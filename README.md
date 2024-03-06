@@ -40,6 +40,6 @@ Lancez le serveur sur le FrontEnd
 npm run start
 ```
 
-N'oubliez pas de cliquer sur le lien produit pour ouvrir notre application... Et surtout..... Faites le cours 😉
+N'oubliez pas de cliquer sur le lien produit pour ouvrir l'application... Et surtout..... Faites le cours 😉
 
 ✨✨ ENJOY ✨✨
