@@ -8,7 +8,7 @@ const userRoutes = require('./routes/user');
 
 mongoose
   .connect(
-    "mongodb+srv://jeanmariedeschamps25:bienvenu@cluster1.lww8bc9.mongodb.net/",
+    "YOUR MONGODB CESSION",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => console.log("Connexion à MongoDB réussie !"))
