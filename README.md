@@ -3,8 +3,6 @@
 
 Vous pouvez retrouver le [cours complet ici](https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb)
 
-Mon application est visible sur : [go-fullStack](...)
-
 ## Objectifs
 
 1. Utiliser Node.js
